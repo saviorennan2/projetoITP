@@ -1,2 +1,2 @@
 # projetoITP
-Sistema de gerenciamento de banco de dados
+Sistema de gerenciamento de banco de dadosss
